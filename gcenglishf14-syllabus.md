@@ -1,9 +1,9 @@
 ## ENGL 70000  - Fall 2014 - Introduction to Doctoral Studies in English
-Dr. Matthew K. Gold, [mgold@gc.cuny.edu](#), 4108.01, office hours Wed 4:30-5:30 and by appointment
+Dr. Matthew K. Gold, [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu), 4108.01, office hours Wed 4:30-5:30 and by appointment
 
-> Private course group: [http://cuny.is/gcenglishf14group](#)
-> Public course blog: [http://cuny.is/gcenglishf14](#)
-> Course hashtag: #gcenglishf14
+* Private course group: [http://cuny.is/gcenglishf14group](http://cuny.is/gcenglishf14group)
+* Public course blog: [http://cuny.is/gcenglishf14](%5Bhttp://cuny.is/gcenglishf14%5D)
+* Course hashtag: #gcenglishf14
 
 
 
