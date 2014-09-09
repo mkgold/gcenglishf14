@@ -1,5 +1,6 @@
 ## ENGL 70000  - Fall 2014 - Introduction to Doctoral Studies in English
-Dr. Matthew K. Gold, [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu), 4108.01, office hours Wed 4:30-5:30 and by appointment
+Dr. Matthew K. Gold, [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu)
+Office hours Wed 4:30-5:30 and by appointment (Room 4108.01)
 
 * Private course group: [http://cuny.is/gcenglishf14group](http://cuny.is/gcenglishf14group)
 * Public course blog: [http://cuny.is/gcenglishf14](%5Bhttp://cuny.is/gcenglishf14%5D)
@@ -36,7 +37,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 
 ### Assignments (see below for details)
 * Blog Posts
-* Annotated Bibliograhy
+* Annotated Bibliography
 * Archives Assignment
 * State of the Field Report
 * Final Paper 
@@ -46,7 +47,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 
 ### Schedule
 
-**1 September**	
+**1 September** 
 > No class
 
 **8 September**
@@ -109,6 +110,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 **24 November**
 > Engaging the Digital Humanities: Issues and Debates
 > * Matthew Gold, ed. _Debates in the Digital Humanities_ (selections)
+> * Matthew Jockers, _Macroanalysis_ (selections)
 
 **1 December**
 > Knowledge as a Commons / Dissent in the Public Sphere
@@ -124,7 +126,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 > Book Traces - Andy Stauffer on books and libraries present and past
 > * (Readings TBA)
 
-**15 December
+\*\*15 December
 > Final Discussions and Presentations
 
 > **Final Paper Due**
@@ -133,8 +135,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 
 
 
-***** 
-
+****** 
 ### Assignment Descriptions:
 
 **Blogging Assignment (Due twice during the semester)**
@@ -167,4 +168,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 **Final Paper (Due December 15)**
 > Write a ten-page paper on a subject related to our course readings. Feel free to write on a topic of your choice or to respond to the following prompt:
 
-> Which two or three essays from our course readings would you argue should be read by everyone in English graduate studies or more broadly, in the profession? Which other one or two pieces, not represented in this course syllabus, are particularly important to your approaches, objectives, pedagogies, etc.?
+> Which two or three essays from our course readings would you argue should be read by everyone in English graduate studies or more broadly, in the profession? Which other one or two pieces, not represented in this course syllabus, are particularly important to your approaches, objectives, pedagogies, etc.? ^1
+
+
+^1 This assignment has been adopted from Kandice Chuh’s previous ENGL 70000 syllabus
