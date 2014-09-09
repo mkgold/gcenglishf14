@@ -33,7 +33,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 * Neil Postman and Charles Weingartner, _Teaching as a Subversive Activity_ @
 * Ted Underwood, _When Literary Periods Mattered_ ^+
 
-	> > (^ on reserve; @ freely available online; + reading in full)
+	>  (^ on reserve; @ freely available online; + reading in full)
 
 
 
@@ -73,7 +73,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 > * Paolo Friere, _Pedagogy of the Oppressed_
 > * Neil Postman, _Teaching as a Subversive Activity_
 > * Rita Felski, “After Suspicion” (PDF)
-> * “Hacking Teaching” section of _Hacking the Academy_ 
+> * “Hacking Teaching” section of _[Hacking the Academy_](http://dx.doi.org/10.3998/dh.12172434.0001.001 "Hacking the Academy") 
 
 **13 October**
 > No class
@@ -138,7 +138,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 
 
 
-****** 
+\*\*\*\*\*\* 
 ### Assignment Descriptions:
 
 **Blogging Assignment (Due twice during the semester)**
