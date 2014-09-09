@@ -1,5 +1,7 @@
 ## ENGL 70000  - Fall 2014 - Introduction to Doctoral Studies in English
+
 Dr. Matthew K. Gold, [mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu)
+
 Office hours Wed 4:30-5:30 and by appointment (Room 4108.01)
 
 * Private course group: [http://cuny.is/gcenglishf14group](http://cuny.is/gcenglishf14group)
@@ -30,6 +32,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 * Bethany Nowviski, ed. _Alt Academy_ @
 * Neil Postman and Charles Weingartner, _Teaching as a Subversive Activity_ @
 * Ted Underwood, _When Literary Periods Mattered_ ^+
+
 	> > (^ on reserve; @ freely available online; + reading in full)
 
 
