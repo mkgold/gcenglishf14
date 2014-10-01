@@ -80,7 +80,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 
 #### In the Archives 1
 **20 October**
-> NYPL trip 
+> NYPL trip - meet at 4:10pm in front of the NYPL Schwartzman Building (5th between 42nd/43rd) [http://www.nypl.org/locations/schwarzman](http://www.nypl.org/locations/schwarzman)
 
 
 > **State of the field assignment due**
