@@ -82,7 +82,6 @@ What is English Studies? This course takes an open and exploratory approach to a
 **20 October**
 > NYPL trip 
 
-\<br\>
 
 > **State of the field assignment due**
 
