@@ -81,7 +81,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 #### In the Archives 1
 **20 October**
 > NYPL trip 
-\<br /\>
+\<br\>
 > **State of the field assignment due**
 
 #### Professing English (cont.)
