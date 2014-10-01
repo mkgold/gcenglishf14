@@ -21,7 +21,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 * Piya Chatterjee and Sunaina Maira, Eds, _The Imperial University_
 * Dan Cohen and Tom Scheinfeldt, eds., _Hacking the Academy_ ^
 * Kathleen Fitzpatrick, _Planned Obsolescence_ ^+
-* Paolo Friere, _Pedagogy of the Oppressed_ ^
+* Paolo Friere, _Pedagogy of the Oppressed_ ^+
 * Matthew K. Gold, ed., _Debates in the Digital Humanities_ ^@
 * Gerald Graff, _Professing Literature_ ^+
 * Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_ ^+
@@ -71,38 +71,37 @@ What is English Studies? This course takes an open and exploratory approach to a
 **6 October**
 > Teaching 
 > * Paolo Friere, _Pedagogy of the Oppressed_
-> * Neil Postman, _Teaching as a Subversive Activity_
+> * Neil Postman, _Teaching as a Subversive Activity_ (Intro through Ch 6 - pp. xi-97)
 > * Rita Felski, “After Suspicion” (PDF)
-> * “Hacking Teaching” section of _[Hacking the Academy_](http://dx.doi.org/10.3998/dh.12172434.0001.001 "Hacking the Academy") 
+> * “Hacking Teaching” section of \_[\<a href=“[] http://dx.doi.org/10.3998/dh.12172434.0001.001 “\>Hacking the Academy\</a\>\_](# "Hacking the Academy") 
 
 **13 October**
 > No class
 
+#### In the Archives 1
 **20 October**
+> NYPL trip 
+> **State of the field assignment due**
+
+#### Professing English (cont.)
+**27 October**
 > Publishing and Presenting
 > * Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_ 
 > * Shannon Mattern, “Engaging With Presentations and Asking Questions”
 
-> **State of the field assignment due**
 
-
-**27 October**
+**3 November**
 > Working
 > * Marc Bousquet, _How the University Works_
 > * Bethany Nowviskie, ed., _Alt-Academy_ (selections)
 > * Michael Berube, 2013 MLA Presidential Address
 > * Christopher Newfield, "Ending the Budget Wars: Funding the Humanities during a Crisis in Higher Education"
-
-#### In the Archives 1
-**3 November**
-> NYPL trip 
-
 > **Annotated bibliography assignment due**
 
 #### Digital/Public Turns
 **10 November**
 > Scholarly communication
-> * Kathleen Fitzpatrick, Planned Obsolescence
+> * Kathleen Fitzpatrick, _Planned Obsolescence_
 
 **17 November**
 > DH and Textual Studies - Steve Jones class visit 
