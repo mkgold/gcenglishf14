@@ -73,7 +73,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 > * Paolo Friere, _Pedagogy of the Oppressed_
 > * Neil Postman, _Teaching as a Subversive Activity_ (Intro through Ch 6 - pp. xi-97)
 > * Rita Felski, “After Suspicion” (PDF)
-> * “Hacking Teaching” section of \_[\<a href=“[] http://dx.doi.org/10.3998/dh.12172434.0001.001 “\>Hacking the Academy\</a\>\_](# "Hacking the Academy") 
+> * “Hacking Teaching” section of _Hacking the Academy_ http://dx.doi.org/10.3998/dh.12172434.0001.001
 
 **13 October**
 > No class
