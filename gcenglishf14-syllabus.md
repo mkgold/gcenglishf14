@@ -89,7 +89,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 **27 October**
 > Publishing and Presenting
 > * Eric Hayot, _The Elements of Academic Style: Writing for the Humanities_ 
-> * Shannon Mattern, “Engaging With Presentations and Asking Questions”
+> * Shannon Mattern, “Engaging With Presentations and Asking Questions” http://www.wordsinspace.net/wordpress/teaching/student-resources-2/engaging-with-presentations-asking-questions/
 
 
 **3 November**
