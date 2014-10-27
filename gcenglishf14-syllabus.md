@@ -164,6 +164,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 **Annotated Bibliography Assignment (Due November 3)**
 > Write an annotated bibliography containing at least 10 sources on a subject related to your scholarly interests. Your bibliography must include at least two sources written in a foreign language. 
 
+> Resource: How to Prepare an Annotated Bibliography http://guides.library.cornell.edu/annotatedbibliography
 
 **Archives Assignment (Due December 1)**
 > Visit an archive in NYC related to your scholarly interests. Write a two-page paper detailing your findings and reflecting upon your experience. Include photos if possible.
