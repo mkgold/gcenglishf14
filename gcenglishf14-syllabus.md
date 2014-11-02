@@ -98,6 +98,7 @@ What is English Studies? This course takes an open and exploratory approach to a
 > * Bethany Nowviskie, ed., _Alt-Academy_ (Essays by Kim Yates - http://mediacommons.futureofthebook.org/alt-ac/pieces/have-you-considered-staff-position , Maureen McCarthy - http://mediacommons.futureofthebook.org/alt-ac/pieces/laying-your-own-track , Katina Rogers - http://mediacommons.futureofthebook.org/alt-ac/pieces/discerning-unexpected-paths ,  Joanne Berens, Arno Bosse, Miranda Swanson
 May 06, 2011 http://mediacommons.futureofthebook.org/alt-ac/pieces/administrative-careers-humanists )
 > * Michael Berube, 2013 MLA Presidential Address - http://www.mla.org/pres_address_2013
+
 > **Annotated bibliography assignment due** (please post on web in Annotated Bibliography category)
 
 #### Digital/Public Turns
