@@ -109,8 +109,8 @@ May 06, 2011 http://mediacommons.futureofthebook.org/alt-ac/pieces/administrativ
 **17 November**
 > DH and Textual Studies - Steve Jones class visit 
 > * Agrippa Files Website - http://agrippa.english.ucsb.edu
-> * Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.”
-> * James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).”
+> * Matthew G. Kirschenbaum, with Doug Reside and Alan Liu, “No Round Trip: Two New Primary Sources for Agrippa.” - http://agrippa.english.ucsb.edu/kirschenbaum-matthew-g-with-doug-reside-and-alan-liu-no-round-trip-two-new-primary-sources-for-agrippa
+> * James J. Hodge, “Bibliographic Description of Agrippa (a book of the dead).” - http://agrippa.english.ucsb.edu/hodge-james-bibliographic-description-of-agrippa-commissioned-for-the-agrippa-files
 
 **24 November**
 > Engaging the Digital Humanities: Issues and Debates
