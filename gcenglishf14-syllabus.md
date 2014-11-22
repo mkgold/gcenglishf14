@@ -119,12 +119,13 @@ May 06, 2011 http://mediacommons.futureofthebook.org/alt-ac/pieces/administrativ
 > * * Matthew Kirschenbaum, "Digital Humanities As/Is a Tactical Term" http://dhdebates.gc.cuny.edu/debates/text/48
 > * * Kathleen Fitzpatrick, "The Humanities, Done Digitally" http://dhdebates.gc.cuny.edu/debates/text/30
 > * * Tom Scheinfeldt, "Where’s the Beef? Does Digital Humanities Have to Answer Questions?" http://dhdebates.gc.cuny.edu/debates/text/18
-> * * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities"
+> * * Stephen Ramsay and Geoffrey Rockwell, "Developing Things: Notes toward an Epistemology of Building in the Digital Humanities" http://dhdebates.gc.cuny.edu/debates/text/11
 > * * Johanna Drucker, "Humanistic Theory and Digital Scholarship" http://dhdebates.gc.cuny.edu/debates/text/34
 > * * Tara McPherson, "Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation" http://dhdebates.gc.cuny.edu/debates/text/29
 > * * Ian Bogost, "The Turtlenecked Hairshirt" http://dhdebates.gc.cuny.edu/debates/text/12
 > * * Michael Witmore, "Text: A Massively Addressible Object" http://dhdebates.gc.cuny.edu/debates/text/28
 > * * Alan Liu, "Where Is Cultural Criticism in the Digital Humanities?" http://dhdebates.gc.cuny.edu/debates/text/20
+
 > * Matthew Jockers, _Macroanalysis_ (Macroanalysis chapter - available in group files)
 
 **1 December**
