@@ -129,21 +129,27 @@ May 06, 2011 http://mediacommons.futureofthebook.org/alt-ac/pieces/administrativ
 > * Matthew Jockers, _Macroanalysis_ (Macroanalysis chapter - available in group files)
 
 **1 December**
-> Knowledge as a Commons / Dissent in the Public Sphere
-> * Charlotte Hess and Elinor Ostrom, eds, _Understanding Knowledge as a Commons_ (selections)
-> * Fred Moten, _University and the Undercommons_ (sections)
-> * Piya Chatterjee and Sunaina Maira, Eds, _The Imperial University_ (selections)
-> * Lewis Hyde, _Common as Air_ (selections)
+> * Discussion of Archives assignments
 
 > **Archives assignment due**
 
 #### In the Archives 2
 **8 December**
 > Book Traces - Andy Stauffer on books and libraries present and past
-> * (Readings TBA)
+> * Andy Stauffer, "The Nineteenth-Century Archive in the Digital Age" (PDF in Group files)
+> * Alexis C. Madrigal, "What is a Book? Not just a bag of words, but a thing held by human hands" http://www.theatlantic.com/technology/archive/2014/05/what-is-a-book/361876/
+> * Book Traces Press coverage - http://www.booktraces.org/press-for-book-traces/
+> * Check out the Book Traces website - http://www.booktraces.org
 
-\*\*15 December
-> Final Discussions and Presentations
+#### Digital/Public (Re)Turns
+**15 December**
+> Knowledge as a Commons / Dissent in the Public Sphere
+> * Charlotte Hess and Elinor Ostrom, eds, _Understanding Knowledge as a Commons_ (selections)
+> * Fred Moten, _University and the Undercommons_ (sections)
+> * Piya Chatterjee and Sunaina Maira, Eds, _The Imperial University_ (selections)
+> * Lewis Hyde, _Common as Air_ (selections)
+
+> Discussion of final papers
 
 > **Final Paper Due**
 
