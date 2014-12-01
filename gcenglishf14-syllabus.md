@@ -143,11 +143,20 @@ May 06, 2011 http://mediacommons.futureofthebook.org/alt-ac/pieces/administrativ
 
 #### Digital/Public (Re)Turns
 **15 December**
-> Knowledge as a Commons / Dissent in the Public Sphere
-> * Charlotte Hess and Elinor Ostrom, eds, _Understanding Knowledge as a Commons_ (selections)
-> * Fred Moten, _University and the Undercommons_ (sections)
-> * Piya Chatterjee and Sunaina Maira, Eds, _The Imperial University_ (selections)
-> * Lewis Hyde, _Common as Air_ (selections)
+> Knowledge as a Commons / Dissent in the Public Sphere 
+> (All PDFs available in group files)
+> * Charlotte Hess and Elinor Ostrom, eds, _Understanding Knowledge as a Commons_
+> * * Intro (pp 3-14)
+> * * Nancy Kranich, "Countering Enclosure: Reclaiming the Knowledge Commons"
+> * * Peter Levine, "Collective Action, Civic Engagement, and The Knowledge Commons" 
+> * Stefano Harvey and Fred Moten, "The University and the Undercommons"
+> * Piya Chatterjee and Sunaina Maira, Eds, _The Imperial University_
+> * * Laura Pulido, "Faculty Governance at the University of Southern California"
+> * * Steven Salaita, "Normatizing State Power: Uncritical Ethical Praxis and Zionism"
+> * * Nicholas De Genova, "Within and Against the Imperial University: Reflections on Crossing the Line"
+> * Lewis Hyde, _Common as Air_
+> * * "What is a Commons?"
+> * * "The Enclosure of Culture"
 
 > Discussion of final papers
 
